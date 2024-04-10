@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<p align="left">My name is Lilyana Ivanova and I'm learning software engineer., from SoftUni</p>
 
 Here are some ideas to get you started:
 
@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is Lilyana Ivanova and I'm learning software engineer., from SoftUni</p>
 
 ###
 
