@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="left">My name is Lilyana and I'm learning software engineer from SoftUni</p>
+<p align="left">My name is Lilyana and I'm learning software engineer</p>
 
 Here are some ideas to get you started:
 
