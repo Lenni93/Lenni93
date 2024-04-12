@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/js/js-original.svg" height="40" alt="JS logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" height="40" alt="HTML logo"  />
+  <img src="https://www.gratispng.com/png-xfv5td/" height="40" alt="HTML logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" height="40" alt="CSS logo"  />
   <img width="12" />
