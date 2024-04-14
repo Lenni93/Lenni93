@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="50px" height="50px"></a>
   <img width="12" />
-  <img src="https://www.gratispng.com/png-xfv5td/" height="40" alt="HTML logo"  />
+ <a href="https://www.w3.org/TR/EXCEL/" title="EXCEL"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="EXCEL" width="50px" height="50px"></a>
   <img width="12" />
   <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="50px" height="50px"></a>
   <img width="12" />
