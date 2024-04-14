@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="50px" height="50px"></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jsn/jsn-original.svg" height="40" alt="json logo"  />
+  <a href="https://www.w3.org/TR/JSON/" title="JSON"><img src="https://github.com/get-icon/geticon/raw/master/icons/json.svg" alt="JSON" width="50px" height="50px"></a>
   <img width="12" />
 </div>
 
