@@ -38,6 +38,8 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" height="40" alt="CSS logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jsn/jsn-original.svg" height="40" alt="json logo"  />
+  <img width="12" />
 </div>
 
 ###
