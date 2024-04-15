@@ -1,9 +1,10 @@
 ### Hi there 👋
-<p align="left">💫 About Me:
-👨‍🎓 Currently studying to become Software engineer with Python at SoftwareUniversity(https://softuni.bg) and working on personal projects to develop my software engineering skills.</p>
+<p align="left">My name is Lilyana Ivanova and I'm python passion developer
+.</p>
 
 
-
+  <H4>💫 About Me:</H4>
+  👨‍🎓 Currently studying to become Software engineer with Python at SoftwareUniversity(https://softuni.bg) and working on personal projects to develop my software engineering skills.
 - 🔭 I’m currently working on as a Manager of shipping and logistics company 
 - 🌱 I’m currently learning Software Engineer...
 - 👯 I’m looking to collaborate on with developers and programmmers ...
