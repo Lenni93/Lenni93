@@ -1,5 +1,6 @@
 ### Hi there 👋
-<p align="left">My name is Lilyana and I'm learning software engineer</p>
+<p align="left">💫 About Me:
+👨‍🎓 Currently studying to become Software engineer with Python at SoftwareUniversity(https://softuni.bg) and working on personal projects to develop my software engineering skills.</p>
 
 
 
