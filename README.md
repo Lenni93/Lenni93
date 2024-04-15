@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="left">My name is Lilyana and I'm learning software engineer</p>
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on as a Manager of shipping and logistics company 
 - 🌱 I’m currently learning Software Engineer...
